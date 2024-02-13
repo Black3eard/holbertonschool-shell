@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h hello:vincent if= guillaume
+chown hello --reference=vincent guillaume
