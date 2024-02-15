@@ -1,2 +1,2 @@
 #!/bin/bash
-cat ddlist | sort | uniq -u
+cat ddlist | sort --ignore-case | uniq -u
