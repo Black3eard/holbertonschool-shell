@@ -1,2 +1,2 @@
-#!/bas/bash
-sort printenv
+#!/bin/bash
+printenv
