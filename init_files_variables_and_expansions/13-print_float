@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=2.55 printf "%.2f \n" $NUM
+NUM=2.31 | printf "%.2f \n" $NUM
